@@ -27,7 +27,7 @@ public class napchong {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        System.out.println("hi");
+
         System.out.println(Hinhhh.chuVi(a,b,c));
 
     }
